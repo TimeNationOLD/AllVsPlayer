@@ -1,0 +1,14 @@
+name: AllVsPlayer
+version: '${version}'
+main: net.timenation.allvsplayer.AllVsPlayer
+api-version: 1.18
+author: ByRaudy
+
+depend:
+  - TimeSpigotAPI
+  - SimpleCloud-Plugin
+
+commands:
+  settings:
+  start:
+  stop:
